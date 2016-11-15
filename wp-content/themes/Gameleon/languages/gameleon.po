@@ -1,0 +1,1445 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: Gameleon\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Liviu Costache <tiguan@tiguandesign.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Language: en_US\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#. Text in function
+#: Gameleon/post-data.php:
+msgid " Edit"
+msgstr ""
+
+#. Text in function
+#: Gameleon/comments.php:95
+msgid "%1$d %2$s for \"%3$s\""
+msgstr ""
+
+#. Text in function
+#: Gameleon/includes/functions.php:443
+msgid "%1$s at %2$s"
+msgstr ""
+
+#. Text in function
+#: Gameleon/includes/framework/functions/functions.admin.php:1
+msgid "%s activated successfully!"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/searchform.php:16
+msgid "&#xf002;"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/404.php:7
+msgid "404 PAGE NOT FOUND"
+msgstr ""
+
+#. Text in function
+#: Gameleon/includes/widgets/popular_tags.php:1
+msgid "A SEO optimized cloud of your most popular tags."
+msgstr ""
+
+#. Text in function
+#: Gameleon/includes/widgets/feedburner_widget.php:116
+msgid ""
+"A widget that allows users to subscribe via email to your Feedburner feed."
+msgstr ""
+
+#. Text in function
+#: Gameleon/includes/widgets/responsive_ads.php:1
+msgid "A widget that displays a responsive Ad on Home Page or Sidebar."
+msgstr ""
+
+#. Text in function
+#: Gameleon/includes/widgets/post_slider_home.php:177
+msgid ""
+"A widget that displays a slider showing small image posts ordered by: date, "
+"most popular, most viewed or in a random order."
+msgstr ""
+
+#. Text in function
+#: Gameleon/includes/widgets/home_carousel.php:181
+#: Gameleon/includes/widgets/post_slider_sidebar.php:205
+msgid ""
+"A widget that displays a slider showing your posts ordered by: date, most "
+"popular, most viewed or in a random order."
+msgstr ""
+
+#. Text in function
+#: Gameleon/includes/widgets/vertical_scroller.php:287
+msgid ""
+"A widget that displays posts in a vertical ticker, ordered by: date, most "
+"popular, most viewed or in a random order."
+msgstr ""
+
+#. Text in function
+#: Gameleon/includes/widgets/home_tabs.php:207
+msgid ""
+"A widget that displays the tabs of recent posts, most popular posts, most "
+"viewed/played posts and random posts on your home page."
+msgstr ""
+
+#. Text in function
+#: Gameleon/includes/widgets/video_widget.php:156
+msgid ""
+"A widget that plays responsive videos from any video provider allowed by "
+"WordPress."
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/home_module_1.php:464
+#: Gameleon/includes/widgets/home_module_1.php:504
+#: Gameleon/includes/widgets/home_module_2.php:269
+#: Gameleon/includes/widgets/home_module_3.php:265
+#: Gameleon/includes/widgets/home_carousel.php:157
+#: Gameleon/includes/widgets/post_slider_sidebar.php:175
+#: Gameleon/includes/widgets/home_module_4.php:174
+#: Gameleon/includes/widgets/sidebar_module_1.php:282
+#: Gameleon/includes/widgets/post_slider_home.php:153
+#: Gameleon/includes/widgets/vertical_scroller.php:232
+msgid "All Categories"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/all-posts.php:13
+msgid "All Games"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/all-posts.php:15
+msgid "All Posts"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/home_module_1.php:477
+#: Gameleon/includes/widgets/home_module_1.php:517
+#: Gameleon/includes/widgets/home_module_2.php:282
+#: Gameleon/includes/widgets/home_module_3.php:278
+#: Gameleon/includes/widgets/home_carousel.php:170
+#: Gameleon/includes/widgets/post_slider_sidebar.php:188
+#: Gameleon/includes/widgets/home_module_4.php:187
+#: Gameleon/includes/widgets/sidebar_module_1.php:295
+#: Gameleon/includes/widgets/post_slider_home.php:166
+#: Gameleon/includes/widgets/vertical_scroller.php:245
+msgid "Alphabetical"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/minibanners.php:208
+#: Gameleon/includes/widgets/banner_300x250.php:117
+#: Gameleon/includes/widgets/home_ad.php:117
+msgid ""
+"An imagine element must have an <em>alt</em> attribute, useful for markup "
+"validation."
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/video_widget.php:151
+msgid "Article URL:"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/404.php:18
+msgid "Back To Home"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/minibanners.php:192
+msgid "Banner ad 1"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/minibanners.php:216
+msgid "Banner ad 2"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/minibanners.php:237
+msgid "Banner ad 3"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/minibanners.php:257
+msgid "Banner ad 4"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/archive.php:14
+msgid "Blog Archives"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/vertical_scroller.php:222
+msgid "Carousel Options"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/popular_tags.php:131
+msgid "Categories"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/home_module_1.php:462
+#: Gameleon/includes/widgets/home_module_1.php:502
+#: Gameleon/includes/widgets/home_module_2.php:267
+#: Gameleon/includes/widgets/home_module_3.php:263
+#: Gameleon/includes/widgets/home_carousel.php:155
+#: Gameleon/includes/widgets/post_slider_sidebar.php:173
+#: Gameleon/includes/widgets/home_module_4.php:172
+#: Gameleon/includes/widgets/sidebar_module_1.php:280
+#: Gameleon/includes/widgets/post_slider_home.php:151
+#: Gameleon/includes/widgets/vertical_scroller.php:230
+msgid "Category filter:"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/social_tabs.php:320
+msgid "Color Scheme"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/popular_tags.php:138
+msgid "Colored Tags"
+msgstr ""
+
+#. Text in function
+#: Gameleon/comments.php:106
+msgid "Comment:"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/social_tabs.php:303
+msgid "Community"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/social_tabs.php:340
+msgid "Cover Photo"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/single.php:127
+msgid "Custom Tab"
+msgstr ""
+
+#. Text in function
+#: Gameleon/archive.php:8
+msgid "Daily Archives: <span>%s</span>"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/social_tabs.php:323
+msgid "Dark"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/vertical_scroller.php:278
+msgid "Disable Post Thumbnail"
+msgstr ""
+
+#. Text in function
+#: Gameleon/includes/widgets/recent_tweets.php:122
+msgid "Display Latest Tweets"
+msgstr ""
+
+#. Text in function
+#: Gameleon/includes/widgets/seoblock.php:100
+msgid "Display a SEO text block on your home page or sidebar"
+msgstr ""
+
+#. Text in function
+#: Gameleon/includes/widgets/social_counters.php:473
+msgid "Display site social counters."
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/popular_tags.php:143
+msgid "Display tags one per line"
+msgstr ""
+
+#. Text in function
+#: Gameleon/includes/widgets/social_tabs.php:349
+msgid ""
+"Displays 3 social tabs on your sidebar: Facebook Like Box, Twitter and Google"
+"+."
+msgstr ""
+
+#. Text in function
+#: Gameleon/includes/widgets/minibanners.php:279
+msgid "Displays 4 custom banners of 125x125, suitable for sidebar."
+msgstr ""
+
+#. Text in function
+#: Gameleon/includes/widgets/banner_300x250.php:125
+msgid "Displays a 300x250 banner on sidebar"
+msgstr ""
+
+#. Text in function
+#: Gameleon/includes/widgets/sidebar_module_1.php:346
+msgid ""
+"Displays a block showing your posts ordered by: date, most popular, most "
+"viewed or in a random order."
+msgstr ""
+
+#. Text in function
+#: Gameleon/includes/widgets/home_module_1.php:568
+msgid ""
+"Displays a block with two modules in line, one category for each block, "
+"showing your posts ordered by: date, most popular, most viewed or in a "
+"random order."
+msgstr ""
+
+#. Text in function
+#: Gameleon/includes/widgets/home_ad.php:125
+msgid "Displays a custom ad banner on your homepage layout"
+msgstr ""
+
+#. Text in function
+#: Gameleon/includes/widgets/home_module_2.php:329
+msgid ""
+"Displays a single module with a big image on the left, showing 4 posts "
+"ordered by: date, most popular, most viewed or in a random order."
+msgstr ""
+
+#. Text in function
+#: Gameleon/includes/widgets/flickr_widget.php:147
+msgid "Displays photos from Flickr"
+msgstr ""
+
+#. Text in function
+#: Gameleon/includes/widgets/recent_comments.php:163
+msgid "Displays the latest comments."
+msgstr ""
+
+#. Text in function
+#: Gameleon/includes/widgets/home_module_3.php:315
+msgid ""
+"Displays two modules with a big images, showing your posts ordered by: date, "
+"most popular, most viewed or in a random order."
+msgstr ""
+
+#. Text in function
+#: Gameleon/includes/widgets/home_module_4.php:205
+msgid ""
+"Displays your posts in a grid layout ordered by: date, most popular, most "
+"viewed or in a random order."
+msgstr ""
+
+#. Text in function
+#: Gameleon/includes/framework/functions/functions.admin.php:1
+msgid "Documentation"
+msgstr ""
+
+#. Text in function
+#: Gameleon/comments.php:106
+msgid "E-mail:"
+msgstr ""
+
+#. Text in function
+#: Gameleon/includes/functions.php:443
+msgid "Edit"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/video_widget.php:154
+msgid "Enter a post URL for video description."
+msgstr ""
+
+#. Text in function
+#: Gameleon/includes/widgets/feedburner_widget.php:116
+msgid "Enter your email"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/home_module_1.php:532
+#: Gameleon/includes/widgets/home_module_2.php:293
+#: Gameleon/includes/widgets/home_module_3.php:289
+#: Gameleon/includes/widgets/home_module_4.php:202
+#: Gameleon/includes/widgets/sidebar_module_1.php:332
+#: Gameleon/includes/widgets/vertical_scroller.php:274
+msgid "Example: More Sport Articles"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/home_module_3.php:300
+#: Gameleon/includes/widgets/vertical_scroller.php:266
+msgid "Excerpt length in words"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/home_module_1.php:553
+#: Gameleon/includes/widgets/home_module_2.php:314
+#: Gameleon/includes/widgets/sidebar_module_1.php:324
+msgid "Excerpt length in words near thumbnails:"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/home_module_1.php:548
+#: Gameleon/includes/widgets/home_module_2.php:309
+#: Gameleon/includes/widgets/sidebar_module_1.php:319
+msgid "Excerpt length in words of the first post:"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/social_tabs.php:252
+msgid "Facebook Fan Page:"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/social_counters.php:458
+msgid "Facebook ID:"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/social_tabs.php:240
+msgid "Facebook Tab Options"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/social_tabs.php:247
+msgid "Facebook Tab Title:"
+msgstr ""
+
+#. Text in function
+#: Gameleon/includes/post-custom-meta.php:1
+msgid "Featured Image - Show/Hide"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/feedburner_widget.php:101
+msgid "Feedburner feed User:"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/flickr_widget.php:123
+msgid ""
+"Flickr ID (<a target=\"_blank\" href=\"http://www.idgettr.com\">idGettr</a>):"
+msgstr ""
+
+#. Text in function
+#: Gameleon/includes/functions.php:223
+msgid "Footer Menu"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/single.php:39
+msgid "Fullscreen"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/single.php:172
+msgid "Game Details"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/single.php:123
+msgid "Game Review"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/social_tabs.php:308
+msgid "Google+ Page Url:"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/social_tabs.php:286
+msgid "Google+ Tab Options"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/social_tabs.php:293
+msgid "Google+ Tab Title:"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/social_counters.php:468
+msgid "Google+ Username/ID:"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/404.php:13
+msgid "Grats. You broke it"
+msgstr ""
+
+#. Text in function
+#: Gameleon/includes/widgets/flickr_widget.php:72
+msgid "Group"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/recent_tweets.php:118
+msgid "Hide Footer Timeline"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/single.php:120
+msgid "How To Play"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/framework/front-end/options.php:181
+msgid "Howdy"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/minibanners.php:205
+#: Gameleon/includes/widgets/minibanners.php:227
+#: Gameleon/includes/widgets/minibanners.php:248
+#: Gameleon/includes/widgets/minibanners.php:269
+#: Gameleon/includes/widgets/banner_300x250.php:114
+#: Gameleon/includes/widgets/home_ad.php:114
+msgid "Image <em>alt</em> attribute:"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/minibanners.php:196
+#: Gameleon/includes/widgets/minibanners.php:219
+#: Gameleon/includes/widgets/minibanners.php:240
+#: Gameleon/includes/widgets/minibanners.php:260
+#: Gameleon/includes/widgets/banner_300x250.php:106
+#: Gameleon/includes/widgets/home_ad.php:106
+msgid "Image Url:"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/social_tabs.php:332
+msgid "Landscape"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/home_module_1.php:475
+#: Gameleon/includes/widgets/home_module_1.php:515
+#: Gameleon/includes/widgets/home_module_2.php:280
+#: Gameleon/includes/widgets/home_module_3.php:276
+#: Gameleon/includes/widgets/home_carousel.php:168
+#: Gameleon/includes/widgets/flickr_widget.php:72
+#: Gameleon/includes/widgets/post_slider_sidebar.php:186
+#: Gameleon/includes/widgets/home_module_4.php:185
+#: Gameleon/includes/widgets/sidebar_module_1.php:293
+#: Gameleon/includes/widgets/post_slider_home.php:164
+#: Gameleon/includes/widgets/vertical_scroller.php:243
+msgid "Latest"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/home_tabs.php:56
+msgid "Latest Articles"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/home_tabs.php:56
+msgid "Latest Games"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/social_tabs.php:329
+msgid "Layout"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/home_module_1.php:454
+msgid "Left Module Options"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/home_module_1.php:457
+msgid "Left Module Title:"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/social_tabs.php:322
+msgid "Light"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/single.php:45
+msgid "Light Switch"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/recent_tweets.php:102
+#: Gameleon/includes/widgets/social_tabs.php:282
+msgid "Limit number of Tweets:"
+msgstr ""
+
+#. Text in function
+#: Gameleon/includes/functions.php:223
+msgid "Main Menu"
+msgstr ""
+
+#. Text in function
+#: Gameleon/includes/functions.php:648
+msgid "Menu"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/home_module_2.php:259
+#: Gameleon/includes/widgets/home_module_3.php:250
+#: Gameleon/includes/widgets/home_module_4.php:159
+#: Gameleon/includes/widgets/sidebar_module_1.php:272
+msgid "Module Options"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/home_module_2.php:262
+#: Gameleon/includes/widgets/home_module_3.php:253
+#: Gameleon/includes/widgets/home_module_4.php:162
+#: Gameleon/includes/widgets/sidebar_module_1.php:275
+msgid "Module Title:"
+msgstr ""
+
+#. Text in function
+#: Gameleon/archive.php:10
+msgid "Monthly Archives: <span>%s</span>"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/home_tabs.php:82
+msgid "Most Played"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/mostviewed.php:15
+msgid "Most Played Games"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/home_module_1.php:478
+#: Gameleon/includes/widgets/home_module_1.php:518
+#: Gameleon/includes/widgets/home_module_2.php:283
+#: Gameleon/includes/widgets/home_module_3.php:279
+#: Gameleon/includes/widgets/home_carousel.php:171
+#: Gameleon/includes/widgets/post_slider_sidebar.php:189
+#: Gameleon/includes/widgets/home_module_4.php:188
+#: Gameleon/includes/widgets/sidebar_module_1.php:296
+#: Gameleon/includes/widgets/post_slider_home.php:167
+#: Gameleon/includes/widgets/vertical_scroller.php:246
+#: Gameleon/includes/widgets/home_tabs.php:69
+msgid "Most Popular"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/home_tabs.php:82
+msgid "Most Viewed"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/mostviewed.php:17
+msgid "Most Viewed Articles"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/home_module_1.php:479
+#: Gameleon/includes/widgets/home_module_1.php:519
+#: Gameleon/includes/widgets/home_module_2.php:284
+#: Gameleon/includes/widgets/home_module_3.php:280
+#: Gameleon/includes/widgets/home_carousel.php:172
+#: Gameleon/includes/widgets/post_slider_sidebar.php:190
+#: Gameleon/includes/widgets/home_module_4.php:189
+#: Gameleon/includes/widgets/sidebar_module_1.php:297
+#: Gameleon/includes/widgets/post_slider_home.php:168
+#: Gameleon/includes/widgets/vertical_scroller.php:247
+msgid "Most Viewed/Played"
+msgstr ""
+
+#. Text in function
+#: Gameleon/comments.php:106
+msgid "Name:"
+msgstr ""
+
+#. Text in function
+#: Gameleon/comments.php:66
+msgid "Newer comments"
+msgstr ""
+
+#. Text in function
+#: Gameleon/loop-nav.php:22
+msgid "Newer posts"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/comments.php:80
+msgid "No comments"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/popular_tags.php:123
+msgid "Number of Tags to show:"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/recent_comments.php:159
+msgid "Number of comments to show:"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/flickr_widget.php:131
+msgid "Number of images to show:"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/vertical_scroller.php:252
+msgid "Number of posts to scroll:"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/home_module_1.php:484
+#: Gameleon/includes/widgets/home_module_1.php:524
+#: Gameleon/includes/widgets/home_module_3.php:258
+#: Gameleon/includes/widgets/home_module_4.php:167
+#: Gameleon/includes/widgets/sidebar_module_1.php:302
+msgid "Number of posts to show:"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/home_carousel.php:177
+msgid "Number of posts to slide (min.4) :"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/post_slider_home.php:173
+msgid "Number of posts to slide (min.8) :"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/post_slider_sidebar.php:195
+msgid "Number of posts to slide:"
+msgstr ""
+
+#. Text in function
+#: Gameleon/comments.php:63
+msgid "Older comments"
+msgstr ""
+
+#. Text in function
+#: Gameleon/loop-nav.php:21
+msgid "Older posts"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/minibanners.php:273
+#: Gameleon/includes/widgets/banner_300x250.php:120
+#: Gameleon/includes/widgets/home_ad.php:120
+msgid "Or using custom code:"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/home_module_1.php:535
+#: Gameleon/includes/widgets/home_module_2.php:296
+#: Gameleon/includes/widgets/home_module_3.php:292
+#: Gameleon/includes/widgets/sidebar_module_1.php:306
+#: Gameleon/includes/widgets/vertical_scroller.php:258
+msgid "Other Options"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/social_tabs.php:302
+msgid "Page"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/social_tabs.php:298
+msgid "Page type"
+msgstr ""
+
+#. Text in function
+#: Gameleon/single.php:224 Gameleon/page.php:34 Gameleon/no-widgets.php:23
+msgid "Pages:"
+msgstr ""
+
+#. Text in function
+#: Gameleon/comments.php:89
+msgid "Pings&#47;Trackbacks"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/popular-posts.php:17
+msgid "Popular Articles"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/popular-posts.php:15
+msgid "Popular Games"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/social_tabs.php:331
+msgid "Portrait"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/vertical_scroller.php:261
+msgid "Post title length in words"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/social_tabs.php:301
+msgid "Profile"
+msgstr ""
+
+#. Text in function
+#: Gameleon/includes/widgets/flickr_widget.php:72
+msgid "Public"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/home_module_1.php:476
+#: Gameleon/includes/widgets/home_module_1.php:516
+#: Gameleon/includes/widgets/home_module_2.php:281
+#: Gameleon/includes/widgets/home_module_3.php:277
+#: Gameleon/includes/widgets/home_carousel.php:169
+#: Gameleon/includes/widgets/flickr_widget.php:72
+#: Gameleon/includes/widgets/post_slider_sidebar.php:187
+#: Gameleon/includes/widgets/home_module_4.php:186
+#: Gameleon/includes/widgets/sidebar_module_1.php:294
+#: Gameleon/includes/widgets/post_slider_home.php:165
+#: Gameleon/includes/widgets/vertical_scroller.php:244
+msgid "Random"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/home_tabs.php:95
+msgid "Random Articles"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/home_tabs.php:95
+msgid "Random Games"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/home_module_1.php:489
+#: Gameleon/includes/widgets/home_module_1.php:529
+#: Gameleon/includes/widgets/home_module_2.php:290
+#: Gameleon/includes/widgets/home_module_3.php:286
+#: Gameleon/includes/widgets/home_module_4.php:199
+#: Gameleon/includes/widgets/sidebar_module_1.php:329
+#: Gameleon/includes/widgets/vertical_scroller.php:271
+msgid "Read More text:"
+msgstr ""
+
+#. Text in function
+#: Gameleon/single.php:211 Gameleon/page.php:33 Gameleon/no-widgets.php:22
+msgid "Read More..."
+msgstr ""
+
+#. Text in echo
+#: Gameleon/index.php:25 Gameleon/blog.php:15
+msgid "Recent Games"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/index.php:27 Gameleon/blog.php:17
+msgid "Recent Posts"
+msgstr ""
+
+#. Text in function
+#: Gameleon/includes/functions.php:648
+msgid "Related Articles"
+msgstr ""
+
+#. Text in function
+#: Gameleon/includes/functions.php:648
+msgid "Related Games"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/responsive_ads.php:87
+msgid "Responsive Custom Ad 1"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/responsive_ads.php:88
+msgid "Responsive Custom Ad 2"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/responsive_ads.php:89
+msgid "Responsive Custom Ad 3"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/responsive_ads.php:86
+msgid "Responsive Sidebar Ad"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/home_module_1.php:494
+msgid "Right Module Options"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/home_module_1.php:497
+msgid "Right Module Title:"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/seoblock.php:95
+msgid "SEO Text:"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/searchform.php:14
+msgid "Search for:"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/search.php:18
+msgid "Search results for"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/responsive_ads.php:84
+msgid "Select the ad slot you want to display:"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/flickr_widget.php:127
+msgid "Separate tag with commas"
+msgstr ""
+
+#. Text in function
+#: Gameleon/includes/widgets/flickr_widget.php:72
+msgid "Set"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/post_slider_sidebar.php:201
+msgid "Show Date"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/social_tabs.php:243
+msgid "Show Facebook Tab"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/social_tabs.php:289
+msgid "Show Google+ Tab"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/home_tabs.php:298
+msgid "Show Most Popular Posts tab"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/home_tabs.php:309
+msgid "Show Most Viewed Posts tab"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/home_tabs.php:319
+msgid "Show Random Posts tab"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/home_tabs.php:287
+msgid "Show Recent Posts tab"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/social_tabs.php:259
+msgid "Show Twitter Tab"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/home_module_1.php:564
+#: Gameleon/includes/widgets/home_module_2.php:325
+#: Gameleon/includes/widgets/home_module_3.php:311
+#: Gameleon/includes/widgets/home_module_4.php:195
+#: Gameleon/includes/widgets/sidebar_module_1.php:342
+#: Gameleon/includes/widgets/vertical_scroller.php:283
+msgid "Show footer box"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/home_module_1.php:559
+#: Gameleon/includes/widgets/home_module_2.php:320
+#: Gameleon/includes/widgets/home_module_3.php:306
+#: Gameleon/includes/widgets/sidebar_module_1.php:337
+msgid "Show post meta"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/home_carousel.php:147
+#: Gameleon/includes/widgets/post_slider_sidebar.php:165
+#: Gameleon/includes/widgets/post_slider_home.php:143
+msgid "Slider Options"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/search.php:43
+msgid "Sorry, but nothing matched your search criteria."
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/home_module_1.php:473
+#: Gameleon/includes/widgets/home_module_1.php:513
+#: Gameleon/includes/widgets/home_module_2.php:278
+#: Gameleon/includes/widgets/home_module_3.php:274
+#: Gameleon/includes/widgets/home_carousel.php:166
+#: Gameleon/includes/widgets/post_slider_sidebar.php:184
+#: Gameleon/includes/widgets/home_module_4.php:183
+#: Gameleon/includes/widgets/sidebar_module_1.php:291
+#: Gameleon/includes/widgets/post_slider_home.php:162
+#: Gameleon/includes/widgets/vertical_scroller.php:241
+msgid "Sort order:"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/flickr_widget.php:139
+msgid "Sorting:"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/flickr_widget.php:115
+msgid "Source:"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/feedburner_widget.php:107
+msgid "Submit button text:"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/video_widget.php:144
+msgid "Suitable widths are 300 for sidebar and 700 for Homepage."
+msgstr ""
+
+#. Text in function
+#: Gameleon/includes/framework/functions/functions.admin.php:1
+msgid "Support"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/tag.php:18
+msgid "Tag"
+msgstr ""
+
+#. Text in function
+#: Gameleon/includes/widgets/popular_tags.php:69
+msgid "Tag Cloud"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/social_tabs.php:346
+msgid "Tagline"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/popular_tags.php:130
+msgid "Tags"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/flickr_widget.php:127
+msgid "Tags:"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/minibanners.php:201
+#: Gameleon/includes/widgets/minibanners.php:223
+#: Gameleon/includes/widgets/minibanners.php:244
+#: Gameleon/includes/widgets/minibanners.php:264
+#: Gameleon/includes/widgets/banner_300x250.php:110
+#: Gameleon/includes/widgets/home_ad.php:110
+msgid "Target Url:"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/popular_tags.php:128
+msgid "Taxonomy:"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/feedburner_widget.php:112
+msgid "Text before the form:"
+msgstr ""
+
+#. Text in function
+#: Gameleon/includes/framework/functions/functions.admin.php:1
+msgid "Theme Options"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/sidebar-home.php:26
+msgid ""
+"This dummy widget will automatically disappear after you will add some "
+"widgets to the <em>Home Page</em> sidebar."
+msgstr ""
+
+#. Text in echo
+#: Gameleon/sidebar.php:14
+msgid ""
+"This dummy widget will automatically disappear after you will add some "
+"widgets to the <em>Main Sidebar</em>."
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/post-custom-meta.php:75
+msgid ""
+"This option may be overridden by theme options. Please note that even if you "
+"have chosen to hide the featured image for this post, you still have to set "
+"a featured image below to be used in other areas of the site."
+msgstr ""
+
+#. Text in echo
+#: Gameleon/comments.php:26
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#. Text in echo
+#: Gameleon/author.php:49
+msgid "This user hasn not filled out his biographical info."
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/home_module_1.php:543
+#: Gameleon/includes/widgets/home_module_2.php:304
+#: Gameleon/includes/widgets/sidebar_module_1.php:314
+msgid "Title length in words near thumbnails:"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/home_module_1.php:538
+#: Gameleon/includes/widgets/home_module_2.php:299
+#: Gameleon/includes/widgets/sidebar_module_1.php:309
+msgid "Title length in words of the first post:"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/home_module_3.php:295
+msgid "Title length in words:"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/minibanners.php:188
+#: Gameleon/includes/widgets/recent_tweets.php:92
+#: Gameleon/includes/widgets/seoblock.php:90
+#: Gameleon/includes/widgets/home_carousel.php:150
+#: Gameleon/includes/widgets/popular_tags.php:118
+#: Gameleon/includes/widgets/flickr_widget.php:110
+#: Gameleon/includes/widgets/video_widget.php:132
+#: Gameleon/includes/widgets/social_counters.php:438
+#: Gameleon/includes/widgets/banner_300x250.php:99
+#: Gameleon/includes/widgets/post_slider_sidebar.php:168
+#: Gameleon/includes/widgets/home_ad.php:99
+#: Gameleon/includes/widgets/post_slider_home.php:146
+#: Gameleon/includes/widgets/vertical_scroller.php:225
+#: Gameleon/includes/widgets/recent_comments.php:155
+msgid "Title:"
+msgstr ""
+
+#. Text in function
+#: Gameleon/includes/functions.php:223
+msgid "Top Menu"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/social_tabs.php:256
+msgid "Twitter Tab Options"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/social_tabs.php:263
+msgid "Twitter Tab Title:"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/recent_tweets.php:97
+#: Gameleon/includes/widgets/social_tabs.php:268
+msgid "Twitter Username:"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/social_tabs.php:273
+msgid "Twitter Widget ID:"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/social_counters.php:448
+msgid "Twitter consumer key:"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/social_counters.php:453
+msgid "Twitter consumer secret:"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/social_counters.php:443
+msgid "Twitter username:"
+msgstr ""
+
+#. Text in function
+#: Gameleon/includes/widgets/flickr_widget.php:72
+msgid "User"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/minibanners.php:258
+#: Gameleon/includes/widgets/banner_300x250.php:103
+#: Gameleon/includes/widgets/home_ad.php:103
+msgid "Using image:"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/video_widget.php:146
+msgid "Video Description:"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/video_widget.php:137
+msgid "Video URL:"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/video_widget.php:141
+msgid "Video width (optional):"
+msgstr ""
+
+#. Text in function
+#: Gameleon/includes/framework/functions/functions.admin.php:1
+msgid "Visit Site"
+msgstr ""
+
+#. Text in function
+#: Gameleon/comments.php:106
+msgid "Website:"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/recent_tweets.php:107
+msgid "Widget ID:"
+msgstr ""
+
+#. Text in function
+#: Gameleon/includes/framework/functions/functions.admin.php:1
+msgid "Widgets Settings"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/social_tabs.php:314
+msgid "Width:"
+msgstr ""
+
+#. Text in function
+#: Gameleon/archive.php:12
+msgid "Yearly Archives: <span>%s</span>"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/feedburner_widget.php:97
+msgid "You need a Feedburner account and email subscriptions to be turned on."
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/recent_tweets.php:111
+#: Gameleon/includes/widgets/social_tabs.php:276
+msgid "You need to "
+msgstr ""
+
+#. Text in echo
+#: Gameleon/sidebar-home.php:21
+msgid "Your First Home Page Widget"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/sidebar.php:9
+msgid "Your First Sidebar Widget"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/functions.php:455
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/social_counters.php:463
+msgid "Youtube username:"
+msgstr ""
+
+#. Text in function
+#: Gameleon/includes/widgets/banner_300x250.php:125
+msgid "[GAMELEON] 300x250 Ad"
+msgstr ""
+
+#. Text in function
+#: Gameleon/includes/widgets/vertical_scroller.php:287
+msgid "[GAMELEON] Carousel Post"
+msgstr ""
+
+#. Text in function
+#: Gameleon/includes/widgets/recent_comments.php:163
+msgid "[GAMELEON] Comments"
+msgstr ""
+
+#. Text in function
+#: Gameleon/includes/widgets/flickr_widget.php:147
+msgid "[GAMELEON] Flickr Photos"
+msgstr ""
+
+#. Text in function
+#: Gameleon/includes/widgets/home_ad.php:125
+msgid "[GAMELEON] Home Ad"
+msgstr ""
+
+#. Text in function
+#: Gameleon/includes/widgets/home_module_1.php:568
+msgid "[GAMELEON] Home Block 1"
+msgstr ""
+
+#. Text in function
+#: Gameleon/includes/widgets/home_module_2.php:329
+msgid "[GAMELEON] Home Block 2"
+msgstr ""
+
+#. Text in function
+#: Gameleon/includes/widgets/home_module_3.php:315
+msgid "[GAMELEON] Home Block 3"
+msgstr ""
+
+#. Text in function
+#: Gameleon/includes/widgets/home_module_4.php:205
+msgid "[GAMELEON] Home Block 4"
+msgstr ""
+
+#. Text in function
+#: Gameleon/includes/widgets/home_carousel.php:181
+msgid "[GAMELEON] Home Carousel"
+msgstr ""
+
+#. Text in function
+#: Gameleon/includes/widgets/post_slider_home.php:177
+msgid "[GAMELEON] Home Slider"
+msgstr ""
+
+#. Text in function
+#: Gameleon/includes/widgets/home_tabs.php:207
+msgid "[GAMELEON] Home Tabs"
+msgstr ""
+
+#. Text in function
+#: Gameleon/includes/widgets/minibanners.php:279
+msgid "[GAMELEON] Minibanners"
+msgstr ""
+
+#. Text in function
+#: Gameleon/includes/widgets/recent_tweets.php:122
+msgid "[GAMELEON] Recent Tweets"
+msgstr ""
+
+#. Text in function
+#: Gameleon/includes/widgets/responsive_ads.php:1
+msgid "[GAMELEON] Responsive Ads"
+msgstr ""
+
+#. Text in function
+#: Gameleon/includes/widgets/seoblock.php:100
+msgid "[GAMELEON] SEO Text Block"
+msgstr ""
+
+#. Text in function
+#: Gameleon/includes/widgets/sidebar_module_1.php:346
+msgid "[GAMELEON] Sidebar Block 1"
+msgstr ""
+
+#. Text in function
+#: Gameleon/includes/widgets/post_slider_sidebar.php:205
+msgid "[GAMELEON] Sidebar Slider"
+msgstr ""
+
+#. Text in function
+#: Gameleon/includes/widgets/social_counters.php:473
+msgid "[GAMELEON] Social Counter"
+msgstr ""
+
+#. Text in function
+#: Gameleon/includes/widgets/social_tabs.php:349
+msgid "[GAMELEON] Social Tabs"
+msgstr ""
+
+#. Text in function
+#: Gameleon/includes/widgets/feedburner_widget.php:116
+msgid "[GAMELEON] Subscribe"
+msgstr ""
+
+#. Text in function
+#: Gameleon/includes/widgets/popular_tags.php:1
+msgid "[GAMELEON] Tag Cloud"
+msgstr ""
+
+#. Text in function
+#: Gameleon/includes/widgets/video_widget.php:156
+msgid "[GAMELEON] Video Module"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/recent_tweets.php:113
+#: Gameleon/includes/widgets/social_tabs.php:278
+msgid ""
+"and obtain a widget ID. After creating the widget, the Twitter widget ID "
+"will be a long number on your browser url between the /widgets/ and /edit "
+"portion of the url."
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/home_module_1.php:199
+#: Gameleon/includes/widgets/home_module_1.php:366
+#: Gameleon/includes/widgets/home_module_2.php:190
+#: Gameleon/includes/widgets/home_module_3.php:180
+#: Gameleon/includes/widgets/home_module_4.php:93
+#: Gameleon/includes/widgets/sidebar_module_1.php:200
+#: Gameleon/includes/widgets/vertical_scroller.php:152
+msgid "articles in this category"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/social_counters.php:278
+msgid "comments"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/recent_tweets.php:112
+#: Gameleon/includes/widgets/social_tabs.php:277
+msgid "create a Twitter widget"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/social_counters.php:320
+msgid "fans"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/social_counters.php:298
+#: Gameleon/includes/widgets/social_counters.php:365
+msgid "followers"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/recent_comments.php:83
+msgid "on"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/social_counters.php:261
+msgid "posts"
+msgstr ""
+
+#. Text in echo
+#: Gameleon/includes/widgets/social_counters.php:343
+msgid "subscribers"
+msgstr ""

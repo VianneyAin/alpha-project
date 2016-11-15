@@ -1,0 +1,95 @@
+/*------------------------------------------------------------------
+
+  Banner
+
+-------------------------------------------------------------------*/
+.no-banner {
+    padding-top: $navbar-height;
+}
+.youplay-banner {
+    position: relative;
+    background: $back_color;
+    height: 550px;
+    overflow: hidden;
+
+    // top banner top padding
+    &.banner-top {
+        padding-top: $navbar-height;
+    }
+
+    &.small {
+        height: 450px;
+    }
+
+    &.xsmall {
+        height: 350px;
+    }
+
+    &.full {
+        height: 100%;
+    }
+
+    // heading
+    h2 {
+        margin-top: 0;
+    }
+    
+    // background parallax image
+    .image {
+        position: absolute;
+        opacity: 0.5;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        background-position: 50% 0px;
+    }
+    
+    // banner info
+    .info {
+        position: relative;
+        display: table;
+        width: 100%;
+        height: 100%;
+        margin: 0 auto;
+
+        @media #{$media-xs} {
+            text-align: center;
+        }
+
+        > div {
+            display: table-cell;
+            width: 100%;
+            height: 100%;
+            vertical-align: middle;
+        }
+
+        h2 {
+            font-size: 5rem;
+            text-transform: uppercase;
+        }
+    }
+}
+
+// full height banner
+.full,
+.full .youplay-banner {
+    height: 100%;
+    min-height: 600px;
+}
+.full {
+    overflow: auto;
+}
+.full .youplay-banner .image {
+    background-position: 50% 50%;
+    background-size: cover;
+}
+
+
+// full width banner
+.wide .youplay-banner .image {
+    background-position: 50% 50%;
+    background-size: cover;
+}

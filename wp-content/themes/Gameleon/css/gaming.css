@@ -1,0 +1,122 @@
+/* A METTRE DANS UN FICHIER CSS A PART QUAND CE SERA COMPLET */
+.gaming-section {
+    margin-top:20px;
+}
+
+.gaming-section .gaming-title {
+    background-color:#FF3C1F;
+    color:white;
+    padding:10px 0px 10px 10px;
+}
+
+.gaming-section .gaming-title h2 {
+    color:white;
+}
+
+
+table.teams-results,
+table.team-results,
+table.player-details {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+table.teams-results th,
+table.team-results th,
+table.player-details th {
+    background-color:#FF3C1F;
+    color:white;
+}
+
+table.teams-results td, table.teams-results th,
+table.team-results td, table.team-results th,
+table.player-details td, table.player-details th {
+    border: 1px solid #FF3C1F;
+    text-align: left;
+    padding: 8px;
+}
+
+/*
+Max width before this PARTICULAR table gets nasty
+This query will take effect for any screen smaller than 760px
+and also iPads specifically.
+*/
+@media
+only screen and (max-width: 760px),
+(min-device-width: 768px) and (max-device-width: 1024px)  {
+
+	/* Force table to not be like tables anymore */
+	table.teams-results,
+    table.team-results,
+    table.player-details,
+    thead, tbody, th, td, tr {
+		display: block;
+	}
+
+	/* Hide table headers (but not display: none;, for accessibility) */
+	table.teams-results th,
+    table.team-results th,
+    table.player-details th {
+		position: absolute;
+		top: -9999px;
+		left: -9999px;
+	}
+
+	table.teams-results tr,
+    table.team-results tr,
+    table.player-details tr
+    { border: 1px solid #ccc; }
+
+	table.teams-results td,
+    table.team-results td,
+    table.player-details td {
+		/* Behave  like a "row" */
+		border: none;
+		border-bottom: 1px solid #eee;
+		position: relative;
+		padding-left: 50%;
+	}
+
+	table.teams-results td:before,
+    table.team-results td:before,
+    table.player-details td:before {
+		/* Now like a table header */
+		position: absolute;
+		/* Top/left values mimic padding */
+		top: 6px;
+		left: 6px;
+		width: 45%;
+		padding-right: 10px;
+		white-space: nowrap;
+	}
+
+	/*
+	Label the data
+	*/
+	table.team-results td:nth-of-type(1):before { content: "Nom du tournois"; }
+	table.team-results td:nth-of-type(2):before { content: "Jeu"; }
+	table.team-results td:nth-of-type(3):before { content: "Résultat"; }
+	table.team-results td:nth-of-type(4):before { content: "Date"; }
+
+    /*
+	Label the data
+	*/
+    table.teams-results td:nth-of-type(2):before { content: "Line-up"; }
+	table.teams-results td:nth-of-type(2):before { content: "Nom du tournois"; }
+	table.teams-results td:nth-of-type(3):before { content: "Jeu"; }
+	table.teams-results td:nth-of-type(4):before { content: "Résultat"; }
+	table.teams-results td:nth-of-type(5):before { content: "Date"; }
+
+
+    /*
+	Label the data
+	*/
+	table.player-details td:nth-of-type(1):before { content: "Prénom"; }
+	table.player-details td:nth-of-type(2):before { content: "Age"; }
+	table.player-details td:nth-of-type(3):before { content: "Ville"; }
+    table.player-details td:nth-of-type(4):before { content: "Map préférée"; }
+    table.player-details td:nth-of-type(5):before { content: "Personnage préféré"; }
+    table.player-details td:nth-of-type(6):before { content: "Poste"; }
+    table.player-details td:nth-of-type(7):before { content: "Biographie"; }
+}

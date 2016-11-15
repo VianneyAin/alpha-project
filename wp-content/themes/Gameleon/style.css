@@ -1,0 +1,34 @@
+/*
+
+Theme Name: Gameleon (Shared on MafiaShare.net)
+
+Theme URI: http://www.mafiashare.net
+
+Description: Premium WordPress Responsive Arcade Theme
+
+Version:3.2
+
+Author: Tiguan
+
+Author URI: http://www.mafiashare.net
+
+License: GNU General Public License version 3.0
+
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+
+Tags: arcade, games, online games, two-columns, right-sidebar, responsive, fixed-width, wordpress arcade games, magazine, news, myarcadeplugin, my arcade plugin
+
+Text Domain: Gameleon
+
+*/
+
+
+@font-face {
+  font-family: "Big Noodle Titling";
+  src: url("/fonts/big_noodle_titling.ttf");
+}
+
+@font-face {
+  font-family: "Big Noodle Titling Oblique";
+  src: url("/fonts/big_noodle_titling_oblique.ttf");
+}

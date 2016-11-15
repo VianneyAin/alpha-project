@@ -1,0 +1,381 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: orizon\n"
+"POT-Creation-Date: 2014-05-02 01:07+0100\n"
+"PO-Revision-Date: 2014-05-02 01:07+0100\n"
+"Last-Translator: \n"
+"Language-Team: skywarriorthemes.com <info@skywarriorthemes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../Orizon/404.php:13
+msgid "BOOM 404!"
+msgstr ""
+
+#: ../Orizon/archive.php:1 ../Orizon/category.php:1 ../Orizon/main-post.php:1
+#: ../Orizon/search.php:51
+msgid "0"
+msgstr ""
+
+#: ../Orizon/archive.php:1 ../Orizon/category.php:1 ../Orizon/main-post.php:1
+#: ../Orizon/search.php:51 ../Orizon/single.php:1
+#: ../Orizon/tmp-1right-sidebar.php:1 ../Orizon/tmp-3full-width.php:35
+msgid "1"
+msgstr ""
+
+#: ../Orizon/archive.php:1 ../Orizon/category.php:1 ../Orizon/main-post.php:1
+#: ../Orizon/search.php:51 ../Orizon/single.php:1
+#: ../Orizon/tmp-1right-sidebar.php:1 ../Orizon/tmp-3full-width.php:35
+msgid "%"
+msgstr ""
+
+#: ../Orizon/archive.php:1 ../Orizon/category.php:1 ../Orizon/main-post.php:1
+msgid " by "
+msgstr ""
+
+#: ../Orizon/archive.php:1
+msgid "read more"
+msgstr ""
+
+#: ../Orizon/bbpress/content-single-topic-lead.php:18
+#: ../Orizon/bbpress/content-single-topic-lead.php:90
+msgid "Creator"
+msgstr ""
+
+#: ../Orizon/bbpress/content-single-topic-lead.php:22
+#: ../Orizon/bbpress/content-single-topic-lead.php:94
+msgid "Topic"
+msgstr ""
+
+#: ../Orizon/bbpress/content-statistics.php:17
+msgid "Registered Users"
+msgstr ""
+
+#: ../Orizon/bbpress/content-statistics.php:22
+msgid "Forums"
+msgstr ""
+
+#: ../Orizon/bbpress/content-statistics.php:27
+msgid "Topics"
+msgstr ""
+
+#: ../Orizon/bbpress/content-statistics.php:32
+msgid "Replies"
+msgstr ""
+
+#: ../Orizon/bbpress/content-statistics.php:37
+msgid "Topic Tags"
+msgstr ""
+
+#: ../Orizon/bbpress/content-statistics.php:44
+msgid "Empty Topic Tags"
+msgstr ""
+
+#: ../Orizon/bbpress/content-statistics.php:53
+msgid "Hidden Topics"
+msgstr ""
+
+#: ../Orizon/bbpress/content-statistics.php:64
+msgid "Hidden Replies"
+msgstr ""
+
+#: ../Orizon/bbpress/loop-single-topic.php:63
+#, php-format
+msgid "Started by: %1$s"
+msgstr ""
+
+#: ../Orizon/bbpress/loop-single-topic.php:71
+#, php-format
+msgid "in: <a href=\"%1$s\">%2$s</a>"
+msgstr ""
+
+#: ../Orizon/carousel.php:7
+msgid "Hot News"
+msgstr ""
+
+#: ../Orizon/carousel.php:52
+msgid "0 comment"
+msgstr ""
+
+#: ../Orizon/carousel.php:52
+msgid "1 comment"
+msgstr ""
+
+#: ../Orizon/carousel.php:52 ../Orizon/widgets/rating/popular-widget.php:75
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: ../Orizon/carousel.php:53 ../Orizon/category.php:1
+#: ../Orizon/main-post.php:1 ../Orizon/search.php:72
+msgid "Read more"
+msgstr ""
+
+#: ../Orizon/comments.php:1
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: ../Orizon/comments.php:1
+msgid "Comment navigation"
+msgstr ""
+
+#: ../Orizon/comments.php:1
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../Orizon/comments.php:1
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../Orizon/comments.php:1
+msgid "Comments are closed."
+msgstr ""
+
+#: ../Orizon/comments.php:1
+msgid "leave a response"
+msgstr ""
+
+#: ../Orizon/comments.php:1
+#, php-format
+msgid "leave a response to  %s"
+msgstr ""
+
+#: ../Orizon/comments.php:1
+msgid "You must be "
+msgstr ""
+
+#: ../Orizon/comments.php:1
+msgid "logged in"
+msgstr ""
+
+#: ../Orizon/comments.php:1
+msgid " to post a comment."
+msgstr ""
+
+#: ../Orizon/comments.php:1
+msgid "Logged in as "
+msgstr ""
+
+#: ../Orizon/comments.php:1
+msgid "Log out &raquo;"
+msgstr ""
+
+#: ../Orizon/comments.php:1 ../Orizon/tmp-contact.php:77
+msgid "Name "
+msgstr ""
+
+#: ../Orizon/comments.php:1 ../Orizon/tmp-contact.php:77
+#: ../Orizon/tmp-contact.php:79 ../Orizon/tmp-contact.php:86
+msgid "(required)"
+msgstr ""
+
+#: ../Orizon/comments.php:1
+msgid "Email  "
+msgstr ""
+
+#: ../Orizon/comments.php:1 ../Orizon/tmp-contact.php:81
+msgid "Website "
+msgstr ""
+
+#: ../Orizon/comments.php:1 ../Orizon/tmp-contact.php:86
+msgid "Your Message "
+msgstr ""
+
+#: ../Orizon/functions.php:1
+msgid "Pingback:"
+msgstr ""
+
+#: ../Orizon/functions.php:1
+msgid "Edit"
+msgstr ""
+
+#: ../Orizon/functions.php:1
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../Orizon/functions.php:1
+msgid "Reply "
+msgstr ""
+
+#: ../Orizon/functions.php:1
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../Orizon/header.php:1
+msgid "No menu assigned!"
+msgstr ""
+
+#: ../Orizon/header.php:1
+msgid "Menu"
+msgstr ""
+
+#: ../Orizon/pluginactivation.php:1
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../Orizon/pluginactivation.php:1
+msgid "Install Plugins"
+msgstr ""
+
+#: ../Orizon/pluginactivation.php:1
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../Orizon/pluginactivation.php:1
+msgid "Something went wrong."
+msgstr ""
+
+#: ../Orizon/pluginactivation.php:1
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../Orizon/pluginactivation.php:1
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../Orizon/pluginactivation.php:1
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../Orizon/pluginactivation.php:1
+msgid "Not set"
+msgstr ""
+
+#: ../Orizon/post_templates.php:1
+msgid "Sidebar position"
+msgstr ""
+
+#: ../Orizon/post_templates.php:1
+msgid "Post Template"
+msgstr ""
+
+#: ../Orizon/search.php:85
+msgid "Nothing was found"
+msgstr ""
+
+#: ../Orizon/single.php:1 ../Orizon/tmp-1right-sidebar.php:1
+#: ../Orizon/tmp-3full-width.php:23
+msgid "by "
+msgstr ""
+
+#: ../Orizon/single.php:1 ../Orizon/tmp-1right-sidebar.php:1
+#: ../Orizon/tmp-3full-width.php:23
+msgid " in "
+msgstr ""
+
+#: ../Orizon/single.php:1 ../Orizon/tmp-1right-sidebar.php:1
+#: ../Orizon/tmp-3full-width.php:70
+msgid " Comments"
+msgstr ""
+
+#: ../Orizon/single.php:1 ../Orizon/tmp-1right-sidebar.php:1
+#: ../Orizon/tmp-3full-width.php:71
+msgid "ON "
+msgstr ""
+
+#: ../Orizon/themeOptions/admin/options-framework.php:1
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: ../Orizon/themeOptions/admin/options-framework.php:1
+msgid "Default options restored."
+msgstr ""
+
+#: ../Orizon/themeOptions/admin/options-medialibrary-uploader.php:1
+msgid "Gallery"
+msgstr ""
+
+#: ../Orizon/themeOptions/admin/options-medialibrary-uploader.php:1
+msgid "Previously Uploaded"
+msgstr ""
+
+#: ../Orizon/tmp-contact.php:69
+msgid "Thanks, your email was sent successfully."
+msgstr ""
+
+#: ../Orizon/tmp-contact.php:79
+msgid "Email "
+msgstr ""
+
+#: ../Orizon/widgets/latest_twitter/latest_twitter_widget.php:1
+msgid "Twitter user: @"
+msgstr ""
+
+#: ../Orizon/widgets/latest_twitter/latest_twitter_widget.php:1
+msgid "Show"
+msgstr ""
+
+#: ../Orizon/widgets/latest_twitter/latest_twitter_widget.php:1
+msgid "twitter updates"
+msgstr ""
+
+#: ../Orizon/widgets/latest_twitter/latest_twitter_widget.php:1
+msgid "Widget title:"
+msgstr ""
+
+#: ../Orizon/widgets/latest_twitter/latest_twitter_widget.php:1
+msgid "Include replies"
+msgstr ""
+
+#: ../Orizon/widgets/latest_twitter/latest_twitter_widget.php:1
+msgid "To style the output of the widget, modify"
+msgstr ""
+
+#: ../Orizon/widgets/latest_twitter/latest_twitter_widget.php:1
+msgid "this CSS stylesheet"
+msgstr ""
+
+#: ../Orizon/widgets/latest_twitter/latest_twitter_widget.php:1
+msgid "You should also back this file up before updating the plugin."
+msgstr ""
+
+#: ../Orizon/widgets/rating/popular-widget.php:75
+msgid "No comments"
+msgstr ""
+
+#: ../Orizon/widgets/rating/popular-widget.php:75
+msgid "One comment"
+msgstr ""
+
+#: ../Orizon/widgets/rating/popular-widget.php:136
+msgid "NO Popular Post"
+msgstr ""
+
+#: ../Orizon/widgets/rating/popular-widget.php:167
+msgid "Title:"
+msgstr ""
+
+#: ../Orizon/widgets/rating/popular-widget.php:171
+msgid "Category:"
+msgstr ""
+
+#: ../Orizon/widgets/rating/popular-widget.php:173
+msgid "All"
+msgstr ""
+
+#: ../Orizon/widgets/rating/popular-widget.php:179
+msgid "By:"
+msgstr ""
+
+#: ../Orizon/widgets/rating/popular-widget.php:181
+msgid "Comments"
+msgstr ""
+
+#: ../Orizon/widgets/rating/popular-widget.php:182
+msgid "Ratings"
+msgstr ""
+
+#: ../Orizon/widgets/rating/popular-widget.php:186
+msgid "No. of Posts:"
+msgstr ""

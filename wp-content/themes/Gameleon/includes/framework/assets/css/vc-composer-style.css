@@ -1,0 +1,86 @@
+/* VISUAL COMPOSER MODULE ICONS
+-------------------------------------------------------------- */
+.icon-module1,
+.icon-module2,
+.icon-module3,
+.icon-module4,
+.icon-module5,
+.icon-module6 {
+  top: 13px !important;
+  width: 60px !important;
+  height: 44px !important;
+  margin-bottom: 0px !important;
+}
+.composer-switch .logo-icon {
+  -webkit-border-radius:  0 !important;
+  -moz-border-radius:  0 !important;
+  border-radius: 0 !important;
+}
+
+.wpb_td_module1 .wpb_element_wrapper div,
+.wpb_td_module2 .wpb_element_wrapper div,
+.wpb_td_module3 .wpb_element_wrapper div,
+.wpb_td_module4 .wpb_element_wrapper div,
+.wpb_td_module5 .wpb_element_wrapper div,
+.wpb_td_module6 .wpb_element_wrapper div {
+display: none;
+}
+
+.wpb_td_module1 .wpb_element_wrapper,
+.wpb_td_module2 .wpb_element_wrapper,
+.wpb_td_module3 .wpb_element_wrapper,
+.wpb_td_module4 .wpb_element_wrapper,
+.wpb_td_module5 .wpb_element_wrapper,
+.wpb_td_module6 .wpb_element_wrapper {
+    min-height: 44px !important;
+}
+
+.vc_element-icon .icon-module1 {
+  margin-bottom: 20px;
+}
+
+.icon-module1 {
+  background-image: url('../images/modules/module1.png') !important;
+  background-position: 0px 0px !important;
+}
+
+.icon-module2 {
+  background-image: url('../images/modules/module2.png') !important;
+  background-position: 0px 0px !important;
+}
+
+.icon-module3 {
+  background-image: url('../images/modules/module3.png') !important;
+  background-position: 0px 0px !important;
+}
+
+.icon-module4 {
+  background-image: url('../images/modules/module4.png') !important;
+  background-position: 0px 0px !important;
+}
+
+.icon-module5 {
+  background-image: url('../images/modules/module5.png') !important;
+  background-position: 0px 0px !important;
+}
+
+.icon-module6 {
+  background-image: url('../images/modules/module6.png') !important;
+  background-position: 0px 0px !important;
+}
+
+.wpb-elements-list-modal .wpb-content-layouts a#td_module1,
+.wpb-elements-list-modal .wpb-content-layouts a#td_module2,
+.wpb-elements-list-modal .wpb-content-layouts a#td_module3,
+.wpb-elements-list-modal .wpb-content-layouts a#td_module4,
+.wpb-elements-list-modal .wpb-content-layouts a#td_module5,
+.wpb-elements-list-modal .wpb-content-layouts a#td_module6  {
+    padding: 2px 4px 2px 75px!important;
+}
+
+/* HIDE VISUAL COMPOSER ACTIVATION MESAGE
+-------------------------------------------------------------- */
+
+.vc_license-activation-notice{
+  display: none;
+}

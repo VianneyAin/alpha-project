@@ -1,0 +1,71 @@
+body {
+  background: url(http://alpha-project.fr/wp-content/uploads/2016/01/community_image_1389826021.jpg) no-repeat center fixed !important;
+  background-size:cover !important;
+  -webkit-background-size: cover !important; /* pour anciens Chrome et Safari */
+  background-size: cover !important; /* version standardisée */
+}
+
+.td-box-deviantart, .td-box-patreon, .td-box-youtube, .td-box-dribbble, .td-box-instagram, .td-box-behance, .td-box-boutique {
+  font-family: 'Oswald', sans-serif;
+  font-size: 16px !important;
+  border: medium none !important;
+  -webkit-transition: none !important;
+  -moz-transition: none !important;
+  -o-transition: none !important;
+  transition: none !important;
+  color: #fff !important;
+  opacity:1 !important;
+}
+
+.td-box-deviantart {
+  background-color: #005826 !important;
+}
+.td-box-deviantart:active, .td-box-deviantart:hover {
+  background-color: #014d21 !important;
+}
+
+.td-box-patreon {
+  background-color: #e02242 !important;
+}
+.td-box-patreon:active, .td-box-patreon:hover {
+  background-color: #c4233e !important;
+}
+
+.td-box-youtube {
+  background-color: #d90b2d !important;
+}
+.td-box-youtube:active, .td-box-youtube:hover {
+  background-color: #c4233e !important;
+}
+
+.td-box-dribbble {
+  background-color: #ea4c89 !important;
+}
+
+.td-box-dribbble:active, .td-box-dribbble:hover {
+  background-color: #cb3d74 !important;
+}
+
+.td-box-instagram {
+  background-color: #000000 !important;
+}
+
+.td-box-instagram:active, .td-box-instagram:hover {
+  background-color: #252525 !important;
+}
+
+.td-box-behance {
+  background-color: #0091ff !important;
+}
+
+.td-box-behance:active, .td-box-behance:hover {
+  background-color: #0060ff !important;
+}
+
+.td-box-boutique {
+  background-color: #ccff00 !important;
+}
+
+.td-box-boutique:active, .td-box-boutique:hover {
+  background-color: #99bf01 !important;
+}

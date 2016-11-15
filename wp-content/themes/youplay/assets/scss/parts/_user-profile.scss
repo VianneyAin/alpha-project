@@ -1,0 +1,83 @@
+/*------------------------------------------------------------------
+
+  User Profile
+
+-------------------------------------------------------------------*/
+.youplay-user {
+	.angled-img {
+		display: inline-block;
+		vertical-align: top;
+		width: 150px;
+
+		.img > img {
+			opacity: 0.8;
+		}
+		&:hover .img > img {
+			opacity: 0.6;
+		}
+
+		.icon {
+			opacity: 0;
+		}
+		&:hover .icon {
+			opacity: 0.8;
+		}
+	}
+	.youplay-banner .info & h2 {
+		font-size: 3.5rem;
+		margin-bottom: 0.5rem;
+		margin-top: 0;
+	}
+
+	.user-data {
+		position: relative;
+		display: inline-block;
+		padding: 1.8rem 3rem;
+		margin-left: -4px;
+		height: 151px;
+
+		// background
+		&:after {
+			content: '';
+			position: absolute;
+			top: 0; left: 0; right: 0; bottom: 0;
+    		background: rgba($back_darken_color, 0.4);
+    		transform: skew(-$skew_size);
+    		z-index: 1;
+		}
+		> * {
+			position: relative;
+			z-index: 2;
+		}
+
+		// location
+		.location {
+			font-size: 1rem;
+			color: $text_mute_color;
+		}
+		
+		// activity
+		.activity {
+			margin-top: 1.3rem;
+
+			> div {
+				display: inline-block;
+				text-align: center;
+
+				+ div {
+					margin-left: 3rem;
+				}
+
+				.title {
+					font-size: 1rem;
+					color: $text_mute_color;
+				}
+
+				.num {
+					font-size: 2.5rem;
+					line-height: 1.2;
+				}
+			}
+		}
+	}
+}

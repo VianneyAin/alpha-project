@@ -1,0 +1,66 @@
+
+div {
+	@each $var in what is this {
+		color: $var;
+	}
+
+	@each $var in what, is, this {
+		font: $var;
+	}
+
+	$list: what is this;
+	@each $var in $list {
+	   background: $var;
+	}
+
+	$list: what, is, this;
+	@each $var in $list {
+		border: $var;
+	}
+
+	@each $var in what what, is is, this this {
+		background: $var;
+	}
+
+	@each $var in (what: what, is: is, this: this) {
+		background: $var;
+	}
+
+	@each $header, $size, $nonexistent in (h1: 2em, h2: 1.5em, h3: 1.2em) {
+ 		#{$header} {
+ 			font-size: $size;
+ 			border: $nonexistent;
+ 		}
+ 	}
+}
+
+
+span {
+    $i: 0;
+    @while $i <= 10 {
+        color: $i;
+        $i: $i + 1;
+    }
+}
+
+pre {
+    @for $x from 1 to 5 {
+        color: $x;
+    }
+
+    @for $x from 1 through 5 {
+        height: $x;
+    }
+
+    $y: 10;
+    @for $x from $y through 3 {
+        cool: $x;
+    }
+
+}
+
+$j: null;
+@while $j {
+  .item { width: 2em; }
+  $j: false;
+}

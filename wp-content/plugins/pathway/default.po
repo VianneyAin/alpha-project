@@ -1,0 +1,253 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: framework\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-02-24 03:31+0700\n"
+"PO-Revision-Date: 2012-02-24 03:32+0700\n"
+"Last-Translator: Venner Concept <heyvenner@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/theme-options.php:70
+msgid "Heading"
+msgstr ""
+
+#: admin/theme-options.php:73
+msgid "Background Color (Default #f4f4f4)"
+msgstr ""
+
+#: admin/theme-options.php:74
+msgid "Choose color to use color bg <br/><strong>OR type 'none' to use the transparent bg</strong>"
+msgstr ""
+
+#: admin/theme-options.php:79
+#: admin/theme-options.php:271
+msgid "Background Image"
+msgstr ""
+
+#: admin/theme-options.php:80
+#: admin/theme-options.php:114
+#: admin/theme-options.php:272
+msgid "Upload a background for your theme, or specify the image address of your online logo. (http://yoursite.com/logo.png)"
+msgstr ""
+
+#: admin/theme-options.php:85
+#: admin/theme-options.php:277
+msgid "Background Position & Repeat Options"
+msgstr ""
+
+#: admin/theme-options.php:86
+#: admin/theme-options.php:120
+#: admin/theme-options.php:278
+msgid ": Position Vertical<br/><br/>: Position Horizontal<br/><br/>: Repeat<br/><br/>."
+msgstr ""
+
+#: admin/theme-options.php:91
+msgid "Custom Logo"
+msgstr ""
+
+#: admin/theme-options.php:92
+msgid "Upload a logo for your theme, or specify the image address of your online logo. (http://yoursite.com/logo.png)"
+msgstr ""
+
+#: admin/theme-options.php:97
+msgid "Logo Height "
+msgstr ""
+
+#: admin/theme-options.php:98
+msgid "Adjust to the height of your logo."
+msgstr ""
+
+#: admin/theme-options.php:104
+msgid "Form Style"
+msgstr ""
+
+#: admin/theme-options.php:107
+msgid "Form Background Color "
+msgstr ""
+
+#: admin/theme-options.php:108
+msgid "Choose color to use color bg <br/><strong>OR type 'none' to use the transparent bg</strong>."
+msgstr ""
+
+#: admin/theme-options.php:113
+msgid "Form Background Image"
+msgstr ""
+
+#: admin/theme-options.php:119
+msgid "Form Background Position & Repeat Options"
+msgstr ""
+
+#: admin/theme-options.php:125
+msgid "Form border radius "
+msgstr ""
+
+#: admin/theme-options.php:126
+msgid "Form border radius."
+msgstr ""
+
+#: admin/theme-options.php:131
+msgid "Form Border Options"
+msgstr ""
+
+#: admin/theme-options.php:132
+#: admin/theme-options.php:180
+#: admin/theme-options.php:198
+msgid ": Border Size | Border Style | Border Color."
+msgstr ""
+
+#: admin/theme-options.php:137
+msgid "Form Shadow Options"
+msgstr ""
+
+#: admin/theme-options.php:138
+#: admin/theme-options.php:186
+#: admin/theme-options.php:204
+msgid ": Inset<br/><br/>: Horizontal<br/><br/>: Vertical<br/><br/>: Blur Radius<br/><br/>: Spread<br/><br/>: Color<br/><br/>"
+msgstr ""
+
+#: admin/theme-options.php:143
+msgid "Form Widht "
+msgstr ""
+
+#: admin/theme-options.php:144
+msgid "Use more than 350 widht."
+msgstr ""
+
+#: admin/theme-options.php:149
+msgid "Form Padding "
+msgstr ""
+
+#: admin/theme-options.php:150
+msgid ": Padding Top<br/><br/>: Padding Right<br/><br/>: Padding Bottom<br/><br/>: Padding Left<br/><br/>."
+msgstr ""
+
+#: admin/theme-options.php:155
+msgid "Label Color "
+msgstr ""
+
+#: admin/theme-options.php:156
+msgid "Label Color."
+msgstr ""
+
+#: admin/theme-options.php:161
+msgid "Field border radius "
+msgstr ""
+
+#: admin/theme-options.php:162
+msgid "Field border radius."
+msgstr ""
+
+#: admin/theme-options.php:167
+msgid "Field Text Color"
+msgstr ""
+
+#: admin/theme-options.php:168
+#: admin/theme-options.php:174
+#: admin/theme-options.php:192
+#: admin/theme-options.php:210
+#: admin/theme-options.php:216
+#: admin/theme-options.php:222
+#: admin/theme-options.php:296
+#: admin/theme-options.php:302
+#: admin/theme-options.php:308
+msgid "Your primary Text Color."
+msgstr ""
+
+#: admin/theme-options.php:173
+msgid "Field Background Color "
+msgstr ""
+
+#: admin/theme-options.php:179
+msgid "Field Border Options "
+msgstr ""
+
+#: admin/theme-options.php:185
+msgid "Field Shadow Options"
+msgstr ""
+
+#: admin/theme-options.php:191
+msgid "(:Focus / :Active) Field Background Color "
+msgstr ""
+
+#: admin/theme-options.php:197
+msgid "(:Focus / :Active) Field Border Options"
+msgstr ""
+
+#: admin/theme-options.php:203
+msgid "(:Focus / :Active) Field Shadow Options"
+msgstr ""
+
+#: admin/theme-options.php:209
+msgid "'Lost your password ?' Color "
+msgstr ""
+
+#: admin/theme-options.php:215
+msgid "(:hover ) 'Lost your password ?' Color"
+msgstr ""
+
+#: admin/theme-options.php:221
+msgid "'Remember Me ?' Color"
+msgstr ""
+
+#: admin/theme-options.php:228
+msgid "Button Color"
+msgstr ""
+
+#: admin/theme-options.php:229
+msgid "Choose one button color."
+msgstr ""
+
+#: admin/theme-options.php:262
+msgid "Styling"
+msgstr ""
+
+#: admin/theme-options.php:265
+msgid "Background Color."
+msgstr ""
+
+#: admin/theme-options.php:266
+msgid "Your primary Background Color."
+msgstr ""
+
+#: admin/theme-options.php:283
+msgid "Enable \"Shaker\" Effect animation"
+msgstr ""
+
+#: admin/theme-options.php:284
+msgid "Check this option if you want to enable the shaker effect on login form."
+msgstr ""
+
+#: admin/theme-options.php:289
+msgid "Custom Copyright"
+msgstr ""
+
+#: admin/theme-options.php:290
+msgid "Leave blank if you dont want any copyright message."
+msgstr ""
+
+#: admin/theme-options.php:295
+msgid "Custom Copyright Text Color."
+msgstr ""
+
+#: admin/theme-options.php:301
+msgid "Custom Copyright Link Color "
+msgstr ""
+
+#: admin/theme-options.php:307
+msgid "(:Hover / :Active) Custom Copyright Link Color"
+msgstr ""
+
+#: admin/theme-options.php:313
+msgid "Custom CSS"
+msgstr ""
+
+#: admin/theme-options.php:314
+msgid "Please add <strong>!important</strong> end of line css.<br/><br/>ex : font-size : 12px <strong>!important</strong>;"
+msgstr ""
+

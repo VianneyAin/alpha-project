@@ -1,0 +1,1 @@
+Cufon.replace('.submit', { fontFamily: 'Big Noodle Titling' });

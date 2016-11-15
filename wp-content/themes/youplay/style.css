@@ -1,0 +1,56 @@
+/*
+Theme Name: Youplay Themekiller.com
+Theme URI: http://themeforest.net/item/youplay-gaming-wordpress-template/11959042
+Author: nkdev.info
+Author URI: http://nkdev.info/
+Description: Description
+Version: 1.0.1
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: youplay
+Tags: 
+*/
+/* Wordpress CSS */
+.sticky {
+
+}
+.gallery-caption {
+
+}
+.bypostauthor {
+
+}
+.alignleft {
+  text-align:left;
+}
+.alignright {
+  text-align:right;
+}
+.aligncenter {
+  text-align:center;
+}
+
+.wp-caption {
+  max-width:100%
+}
+.wp-caption-text {
+  text-align:center
+}
+
+
+/* Fix some Visual Composer styles */
+.angled-img i.icon {
+  width: auto;
+  height: auto;
+  line-height: normal;
+}
+.content-wrap .wpb_row,
+.content-wrap .wpb_content_element,
+.content-wrap ul.wpb_thumbnails-fluid > li,
+.content-wrap .last_toggle_el_margin,
+.content-wrap .wpb_button {
+  margin-bottom: 10px;
+}
+.TK{
+display: none;
+}
