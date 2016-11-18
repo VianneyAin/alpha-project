@@ -40,3 +40,14 @@ body {
 #footer .col-340 {
     width:30%;
 }
+
+
+#wrapper-menu .main-nav {
+    background: none repeat scroll 0 0 #242424;
+}
+
+ul#menu-menu {
+    width: 800px;
+    max-width: 1000px;
+    text-align: center;
+}
