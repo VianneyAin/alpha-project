@@ -53,7 +53,7 @@ if( !defined( 'ABSPATH' ) ) {
 
 <script type="text/javascript" src="//wow.zamimg.com/widgets/power.js"></script><script>var wowhead_tooltips = { "colorlinks": true, "iconizelinks": true, "renamelinks": true }</script>
 
-<link rel='stylesheet' id='custom-css'  href='http://alpha-project.fr/wp-content/themes/Gameleon/css/custom.css' type='text/css' media='all' />
+<link rel='stylesheet' id='custom-css'  href='http://localhost/alpha-project/wp-content/themes/Gameleon/css/custom.css' type='text/css' media='all' />
 
 <?php
 
