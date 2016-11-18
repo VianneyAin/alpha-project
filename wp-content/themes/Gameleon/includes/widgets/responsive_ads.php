@@ -6,7 +6,8 @@ class Gameleon_Ads_Widget extends WP_Widget {
   /*----------------------------------------------------------------------------------------------------------
   Register widget with WordPress  -----------------------------------------------------------------------------------------------------------*/
   function __construct() {
-      parent::__construct(    'gameleon_ads_widget', // Base Widget ID    __( '[GAMELEON] Responsive Ads', 'gameleon' ),
+      parent::__construct(    'gameleon_ads_widget', // Base Widget ID
+        __( '[GAMELEON] Responsive Ads', 'gameleon' ),
         // Widget Name
         array( 'description' => __( 'A widget that displays a responsive Ad on Home Page or Sidebar.', 'gameleon' ), )
         // Widget Args
