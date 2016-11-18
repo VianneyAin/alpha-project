@@ -51,3 +51,7 @@ ul#menu-menu {
     max-width: 800px;
     text-align: center;
 }
+
+.flexslider:hover img, .small-posts-slider:hover img {
+    opacity:0.3
+}
