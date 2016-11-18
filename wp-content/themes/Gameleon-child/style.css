@@ -17,3 +17,26 @@ body {
   -webkit-background-size: cover !important; /* pour anciens Chrome et Safari */
   background-size: cover !important; /* version standardisée */
 }
+
+#container{
+    max-width:90%;
+}
+#header, #wrapper-menu, #td-modular-slider, #wrapper-content, .sticky-wrapper.is-sticky #wrapper-menu, #wrapper-footer,.td-second-footer .block-bottom {
+    max-width:100%;
+}
+#td-modular-slider {
+    margin:0px;
+    height:auto;
+}
+
+.col-700 {
+    width:73%;
+}
+
+.col-340 {
+    width:25%;
+}
+
+#footer .col-340 {
+    width:30%;
+}
