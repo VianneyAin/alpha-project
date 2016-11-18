@@ -47,7 +47,7 @@ body {
 }
 
 ul#menu-menu {
-    width: 800px;
-    max-width: 1000px;
+    width: 100%;
+    max-width: 800px;
     text-align: center;
 }
