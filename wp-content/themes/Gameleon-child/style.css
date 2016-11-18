@@ -11,3 +11,9 @@ Updated: 2016-11-18 12:41:35
 
 */
 
+body {
+  background-color: #242424 !important;
+  background-size:cover !important;
+  -webkit-background-size: cover !important; /* pour anciens Chrome et Safari */
+  background-size: cover !important; /* version standardisée */
+}

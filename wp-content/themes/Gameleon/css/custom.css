@@ -1,9 +1,3 @@
-body {
-  background: url(http://alpha-project.fr/wp-content/uploads/2016/01/community_image_1389826021.jpg) no-repeat center fixed !important;
-  background-size:cover !important;
-  -webkit-background-size: cover !important; /* pour anciens Chrome et Safari */
-  background-size: cover !important; /* version standardisée */
-}
 
 .td-box-deviantart, .td-box-patreon, .td-box-youtube, .td-box-dribbble, .td-box-instagram, .td-box-behance, .td-box-boutique {
   font-family: 'Oswald', sans-serif;
